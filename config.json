@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvrocess",
+        "uuid": 13385460,
+        "checksum": "lfbsz"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
